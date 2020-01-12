@@ -6,3 +6,7 @@ One of the problem faced by the farmers are that they lack essential inputs such
 This repository contains only the IOT part implemented in the terrace farming bot. Soil moisture sensor, temperature and humidity sensors were used.
 
 This project won GOLD at the Inter IIT Tech meet 8.0 among a total of 18 teams that took part for the same problem statement.
+
+Steps and sequence of running the files:-
+
+1) Upload the file named
