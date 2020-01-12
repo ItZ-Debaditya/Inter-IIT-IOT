@@ -1,7 +1,7 @@
 from flask import Flask, render_template, request
 import random
 
-f = open("node11.txt", "r")
+f = open("node11.txt", "r") //file handling, reading from the file according to the node that is desired.
 print("this is the first line")
 if f.mode == 'r':
   ini_array=f.readline() 
