@@ -1,5 +1,4 @@
-""" EXAMPLE PY READER FROM ESP """
-# Written by Junicchi - https://github.com/Kebablord
+#This python script is used to read the data sent by the esp8266 over the local host and store the values in a text file, as per the name of the node.
 
 import urllib.request
 url = "http://192.168.137.31/"  # ESP's url, ex: https://192.168.102/ (Esp serial prints it when connected to wifi)
