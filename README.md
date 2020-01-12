@@ -17,4 +17,5 @@ Steps and sequence of running the files:-
 6) Copy paste the url in the chrome to get to the web page.
 
 NOTE: The files should be present in a same folder and as per the arrangement as already uploaded in this repository.
+
 NOTE: This is a preliminary project. It can be automated and made efficient to make the process easier.
