@@ -9,7 +9,7 @@ This project won GOLD at the Inter IIT Tech meet 8.0 among a total of 18 teams t
 
 Steps and sequence of running the files:-
 
-1) Fristly ensure proper connection of sensors with the esp8266.
+1) Firstly ensure proper connection of sensors with the esp8266.
 2) Upload the file named integrated.ino in the esp266.
 3) Upon running the code in esp8266, it will generate a url which needs to copied and pasted in the file EXAMPLE_PYTHON_READER.py    (generally the url remains same if the wifi of esp is not changed.)
 4) Run the file named EXAMPLE_PYTHON_READER.py in the ubuntu terminal. (now the sensor data are present in a text file)
