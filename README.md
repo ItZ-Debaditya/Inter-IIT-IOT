@@ -3,7 +3,10 @@ This project was done in the 8th Inter IIT Technical meet which was held at IIT 
 
 One of the problem faced by the farmers are that they lack essential inputs such as soil moisture content, temperature, humidity etc. Terefore we have implemented IoT with the Agritech bot to curb this issue. It can used to note the real time field inputs of specific part of the land as desired by the farmer.
 
-This repository contains only the IOT part implemented in the terrace farming bot. 
+This repository contains only the IOT part implemented in the terrace farming bot.
+
+## The Bot
+https://github.com/ItZ-Debaditya/Inter-IIT-IOT/blob/master/bot.jpeg
 
 ## Sensors used
 Soil moisture sensor, temperature and humidity sensors were used.
