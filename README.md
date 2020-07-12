@@ -6,7 +6,7 @@ One of the problem faced by the farmers are that they lack essential inputs such
 This repository contains only the IOT part implemented in the terrace farming bot.
 
 ## The Bot
-https://github.com/ItZ-Debaditya/Inter-IIT-IOT/blob/master/bot.jpeg
+<img src= "https://github.com/ItZ-Debaditya/Inter-IIT-IOT/blob/master/bot.jpeg">
 
 ## Sensors used
 Soil moisture sensor, temperature and humidity sensors were used.
